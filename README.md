@@ -5,7 +5,7 @@ Automated system that records the student's attendance by using facial recogniti
 technology.
 
 
-# Description
+## Description
 
 - In this project i am used LBPH Algorithm for face recognition.
 
@@ -13,7 +13,7 @@ technology.
 
 
 
-# :desktop_computer:   Installation
+## :desktop_computer:   Installation
 
 ## :hammer_and_wrench:  Requirements
 
@@ -25,7 +25,7 @@ technology.
 
 
     
-# :gear:  Setup
+## :gear:  Setup
 
 ### Download or Clone the project
 First Download or Clone the Project on Your Local Machine.To download the project from github press **Download Zip**
@@ -62,14 +62,14 @@ pip install tk
 pip install mysql-connector-python
 ```
 
-# Test Run
+## Test Run
 
 After creating the enviroment and installing the packages, open the IDE terminal/command line to run the program. Using the code below.
 
 ```
 python3 main.py
 ```
-# How To Use? :pencil:
+## How To Use? :pencil:
 ----------------------
 If you want to use it just follow the steps below.
 
@@ -78,6 +78,6 @@ If you want to use it just follow the steps below.
 3. Create an python enviroment
 4. Install all the packages 
 5. Run the project using the command line or your IDE Run Button
-# Contribute :heart:
+## Contribute :heart:
 --------------------------------------
 If you want to contribute in this project feel free to do that.
