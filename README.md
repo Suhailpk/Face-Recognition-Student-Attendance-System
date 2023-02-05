@@ -4,6 +4,10 @@
 Automated system that records the student's attendance by using facial recognition
 technology.
 
+demo
+
+![git clone](https://github.com/Suhailpk/Face-Recognition-Student-Attendance-System/blob/main/document%20material/demo%20face.gif)
+
 
 ## Description
 
