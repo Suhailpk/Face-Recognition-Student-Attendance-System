@@ -8,6 +8,9 @@ demo
 
 ![git clone](https://github.com/Suhailpk/Face-Recognition-Student-Attendance-System/blob/main/document%20material/demo%20face.gif)
 
+![Untitled design (4)](https://github.com/Suhailpk/Face-Recognition-Student-Attendance-System/blob/main/document%20material/Screenshot%202023-02-05%20145603.png)
+
+![Untitled design (5)](https://github.com/Suhailpk/Face-Recognition-Student-Attendance-System/blob/main/document%20material/Screenshot%202023-02-05%20145643.png)
 
 ## Description
 
