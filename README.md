@@ -42,7 +42,7 @@ or
 You can clone the project with the following code
 
 ```
-git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
+git clone https://github.com/Suhailpk/Face-Recognition-Student-Attendance-System.git
 ```
 
 ### Create enviroment 
